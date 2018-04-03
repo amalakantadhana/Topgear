@@ -1,0 +1,2 @@
+The order id is  : Order ID: #6238
+Order Date: 23/03/2018

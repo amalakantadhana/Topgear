@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.wipro.chcare.ccc.openCart006_performingActions_Totalamount"/>
+      <class name="com.wipro.chcare.ccc.openCart003_ProductComparison"/>
+      <class name="com.wipro.chcare.ccc.openCart002_OrderHistory"/>
+      <class name="com.wipro.chcare.ccc.openCart005_GiftVoucher"/>
+      <class name="com.wipro.chcare.ccc.openCart001_Registration2_updated"/>
+      <class name="com.wipro.chcare.ccc.openCart007_Addingallproductsfromcategory"/>
+      <class name="com.wipro.chcare.ccc.openCart001_Registration"/>
+      <class name="com.wipro.chcare.ccc.opencart008_PrintingtheNumberoflinks"/>
+      <class name="com.wipro.chcare.ccc.openCart004_AddingPhonesToTheCart"/>
+      <class name="com.wipro.chcare.ccc.opencart_datadriven"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
